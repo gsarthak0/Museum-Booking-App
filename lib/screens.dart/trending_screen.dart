@@ -14,8 +14,9 @@ class TrendingScreen extends StatelessWidget {
         Navigator.push(
             context,
             MaterialPageRoute(
-              builder: (context) => const Museumscreen(
-                  name: "Vernssage Gallery", imageUrl: 'assets/images/img_8.jpg', rating: "4.7", Location: "Dwarka, Delhi "),
+              builder: (context) => const Museumscreen (
+                
+                  name: "Vernssage Gallery", imageUrl: 'assets/images/img_8.jpg', rating: "4.7", location: "Dwarka, Delhi "),
             ));
       },
       child: Container(
