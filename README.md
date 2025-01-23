@@ -3,13 +3,13 @@ This Museum Ticket Booking App is designed to provide a seamless and interactive
 
 Key Features:
 
--AI Chatbot Assistance: The app comes with an intelligent AI chatbot that helps users in booking tickets quickly and easily. The chatbot guides users through the booking process step-by-step and answers queries about the available museums and exhibits.
--Multi-language Support: To ensure accessibility for a diverse audience, the chatbot can communicate in multiple languages, offering a personalized experience to users worldwide.
--Voice Input: The app features a dedicated microphone option, allowing users to type or speak their queries. This makes the booking process even more convenient, especially when users prefer voice commands over typing.
+- AI Chatbot Assistance: The app comes with an intelligent AI chatbot that helps users in booking tickets quickly and easily. The chatbot guides users through the booking process step-by-step and answers queries about the available museums and exhibits.
+* Multi-language Support: To ensure accessibility for a diverse audience, the chatbot can communicate in multiple languages, offering a personalized experience to users worldwide.
+- Voice Input: The app features a dedicated microphone option, allowing users to type or speak their queries. This makes the booking process even more convenient, especially when users prefer voice commands over typing.
 
 # Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-around;">
+<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-around;">
   <img src="Screenshots/1.png" width="300" />
   <img src="Screenshots/2.png" width="300" />
   <img src="Screenshots/3.png" width="300" />
